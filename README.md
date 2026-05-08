@@ -4,14 +4,6 @@
 
 Objetivo: Interface web para análise do momento fletor, tensões de compressão e tensões de tração em dutos rígidos sob condições de temperatura (30 à 89°C) e pressão (30 à 59 MPa).
 
-Critérios Atendidos:
-- 3 Gráficos (dispersão, barra e linha)
-- Validação rigorosa de entrada de dados
-- 2 Elementos UX (Loading + Error Alerts)
-- Array com 10+ registros da API
-- Integração Full-Stack React + Flask + JSON
-- README completo
-
 # Estrutura do Projeto
 
 desafio-DRS-Bolsistas/
@@ -43,8 +35,6 @@ python -m venv venv
 venv\Scripts\Activate.ps1
 # Linux/Mac:
 source venv/bin/activate
-# INSTALAR o flash
-pip install flask-cors
 # INSTALAR dependências
 pip install -r requirements.txt
 # EXECUTAR API
