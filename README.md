@@ -23,7 +23,7 @@ desafio-DRS-Bolsistas/
 └── README.md                
 
 # Bibliotecas (Instaladas Automaticamente) 
-BACKEND:  Flask 2.3.3 + Flask-CORS + NumPy
+BACKEND:  Flask + Flask-CORS + NumPy
 FRONTEND: React 18 + Vite + Recharts + Axios + ESLint
 
 # BACKEND (Terminal)
